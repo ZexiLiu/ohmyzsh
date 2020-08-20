@@ -97,7 +97,7 @@ setup_ohmyzsh() {
 		exit 1
 	fi
 
-	git clone --recurse-submodules --remote-submodules -j8 \
+	git clone --recurse-submodules -j8 \
 	    -c core.eol=lf -c core.autocrlf=false \
 		-c fsck.zeroPaddedFilemode=ignore \
 		-c fetch.fsck.zeroPaddedFilemode=ignore \
