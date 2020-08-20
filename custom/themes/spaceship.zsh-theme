@@ -1,1 +1,1 @@
-/Users/zexil/.oh-my-zsh/custom/themes/spaceship-prompt/spaceship.zsh-theme
+/Users/zexil/.oh-my-zsh/custom/themes/zexiliu-spaceship-prompt/spaceship.zsh-theme
