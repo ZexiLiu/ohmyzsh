@@ -1,0 +1,4 @@
+[submodule "custom/themes/zexiliu-spaceship-prompt"]
+	path = custom/themes/zexiliu-spaceship-prompt
+	url = https://github.com/ZexiLiu/spaceship-prompt.git
+	branch = git-commit-hash
